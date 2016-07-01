@@ -10,6 +10,7 @@ import java.util.Set;
  */
 
 
+
 //指定资源的url路由
 @ApplicationPath("/resourcesP")
 public class RestfulPrediction extends Application {
