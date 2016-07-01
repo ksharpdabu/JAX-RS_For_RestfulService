@@ -1,0 +1,26 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="JAX-RS_For_RestfulService:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/JAX_RS_For_RestfulService_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="JAX-RS_For_RestfulService/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="JAX-RS_For_RestfulService" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: asm:asm:3.3.1" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.7.0" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.4" />
+          <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.7.4" />
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.7" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-bundle:1.19.1" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-core:1.19" />
+          <element id="library" level="project" name="Maven: com.sun.jersey:jersey-server:1.19" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.0.1" />
+          <element id="library" level="project" name="Maven: javax.ws.rs:jsr311-api:1.1.1" />
+          <element id="library" level="project" name="Maven: org.json:json:20151123" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
