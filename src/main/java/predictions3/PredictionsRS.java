@@ -19,7 +19,6 @@ import java.io.InputStreamReader;
  */
 
 
-
 @Path("/")
 public class PredictionsRS {
 
