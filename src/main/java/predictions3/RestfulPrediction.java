@@ -9,6 +9,7 @@ import java.util.Set;
  * Created by AlexY on 2016/6/30.
  */
 
+
 //指定资源的url路由
 @ApplicationPath("/resourcesP")
 public class RestfulPrediction extends Application {
