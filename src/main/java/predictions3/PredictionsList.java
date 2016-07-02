@@ -26,9 +26,9 @@ public class PredictionsList {
 
     }
 
-
+    //有个name属性，可以用来修改xml中的元素的名字，（默认值就是程序从getter方法获取的）
     @XmlElement
-    //修改xml中的元素的名字，不使用默认的值（默认值就是程序从getter方法获取的）
+    //指定封装这个xml元素的元素，就是在外面在套一层标签
     @XmlElementWrapper(name = "predictions")
     public List<Prediction> getPredictions() {
         return preds;
