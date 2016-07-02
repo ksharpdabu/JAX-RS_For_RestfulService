@@ -3,6 +3,7 @@
 ##JAX-RS与Jersey写的Restful webservice demo
 
 
+见[《webservice笔记4—— JAX-RS实现rest风格的webservice》](http://www.dabu.info/webservice-use-jax-rs-restful.html)
 
 
 截图：
