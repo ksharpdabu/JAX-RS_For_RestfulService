@@ -6,7 +6,7 @@
 
 
 截图：
-![]()
+![JAX-RS](./ScreenImage/JAX-RS.png)
 
 
 获取整个list，以xml：
